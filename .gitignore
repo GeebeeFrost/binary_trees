@@ -1,2 +1,9 @@
 # Test files
 binary_tree_print.c
+*main.c
+
+# Utility files
+*.swp
+
+# Object files
+*.o
